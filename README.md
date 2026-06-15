@@ -181,6 +181,31 @@ Click **refresh icon** beside ticker
 | 500     | $0.50 |
 | 1,000   | $1.00 |
 
+## Cost Estimation
+
+**Estimated API usage:**
+- $0.15 per 100 tickers
+
+### Cost Examples
+
+| Tickers | Cost  |
+|--------:|------:|
+| 100     | $0.15 |
+| 500     | $0.75 |
+| 1,000   | $1.50 |
+
+## Cost Estimation
+
+**Estimated API usage:**
+- $0.20 per 100 tickers
+
+### Cost Examples
+
+| Tickers | Cost  |
+|--------:|------:|
+| 100     | $0.20 |
+| 500     | $1.00 |
+| 1,000   | $2.00 |
 ---
 
 ## Input Format
