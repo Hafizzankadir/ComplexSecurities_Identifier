@@ -528,7 +528,7 @@
 
     <script>
         // ─── CONFIG & STATE ───────────────────────────────────────────────────────────
-        let apiKey = localStorage.getItem('gemini_api_key') || "AQ.Ab8RN6Lbsd7LiCZPxvqumEiqLc23yxm7J6yySutesa-xxU6hEg";
+        let apiKey = localStorage.getItem('gemini_api_key') || "AQ.Ab8RN6J9RfhAvIUWeJ-cYFXEQ4AOecTMQt5wPzpyArBbCJLIlQ";
         let selectedModel = localStorage.getItem('gemini_model') || "gemini-2.5-flash";
         const RETIRED_MODELS = ["gemini-1.5-flash", "gemini-1.5-pro", "gemini-2.5-flash-preview-09-2025", "gemini-2.0-flash", "gemini-2.0-flash-001", "gemini-2.0-flash-lite", "gemini-3.5-flash"];
         if (RETIRED_MODELS.includes(selectedModel)) { selectedModel = "gemini-2.5-flash"; localStorage.setItem('gemini_model', selectedModel); }
