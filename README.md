@@ -4,6 +4,7 @@
 **Here is the link to the website:**  
 [Open Complex Securities Identifier](https://hafizzankadir.github.io/ComplexSecurities_Identifier/)
 
+Testing API Key = AQ.Ab8RN6IZxRNIgi-Ni56S6EgITobu_C5K8a2tLlocy3uu0s0TAQ
 
 A client-side AI-powered web application for identifying and classifying ETFs based on their exposure to complex securities and derivative strategies. The system retrieves official factsheets, determines country of domicile, and provides confidence-scored compliance insights.
 
